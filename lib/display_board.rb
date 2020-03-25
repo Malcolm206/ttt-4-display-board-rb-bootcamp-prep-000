@@ -6,8 +6,8 @@ def display_board(board)
   row3 = "#{board[6]}|#{board[7]}|#{board[8]}"
   bar = "-----------"
   puts row1
-  puts bar 
+  puts bar
   puts row2
   puts bar
   puts row3
-end 
+end
